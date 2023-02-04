@@ -12,7 +12,7 @@ It's one of my normal projects
 
 
 
-<a href="https://github.com/wonderfuldev0810" align="left"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfuldev0810&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/wonderfuldev0810" align="left" width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfuldev0810&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="400" />
 - 🔭 I’m currently working on **Advance Node.js**
 
 - 🌱 I’m currently learning **Application of DATA Structures Using Node.js.**
