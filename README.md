@@ -2,7 +2,7 @@
 <h1 align="center"> 😇Hi, I'm Michael Coffman 👋</h1>
 <h3 align="center">Backend Developer</h3>
 <h3 align="center">A passionate Node Backend Developer from Canada.</h3>
-<!-- <img align="left" alt="Coding" width="400" src="C:/Users/cake/Pictures/sample portofolio/website_10.jpg"> -->
+<!-- <img align="left" alt="Coding" width="400" src="file:///C:/Users/cake/Pictures/sample%20portofolio/New%20folder/website_10.jpg"> -->
 
 
 
