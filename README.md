@@ -1,8 +1,10 @@
-[![MasterHead](file:///C:/Users/cake/Pictures/portfolioset/goodportfolio/website_10.jpg)]
+[![MasterHead](![website_10](https://user-images.githubusercontent.com/121865744/216787363-9c8c7089-fcce-48db-8d6f-8c4b2f994371.jpg)
+)]
 <h1 align="center"> 😇Hi, I'm Michael Coffman 👋</h1>
 <h3 align="center">Backend Developer</h3>
 <h3 align="center">A passionate Node Backend Developer from Canada.</h3>
-<!-- <img align="left" alt="Coding" width="400" src="file:///C:/Users/cake/Pictures/portfolioset/goodportfolio/website_10.jpg"> -->
+<!-- <img align="left" alt="Coding" width="400" src="![website_10](https://user-images.githubusercontent.com/121865744/216787363-9c8c7089-fcce-48db-8d6f-8c4b2f994371.jpg)
+"> -->
 
 
 
