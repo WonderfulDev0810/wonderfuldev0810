@@ -1,9 +1,9 @@
 It's one of my normal projects
 [![MasterHead](https://user-images.githubusercontent.com/121865744/216788019-44bffb50-649a-45d2-83d1-7d14a194f1b8.jpg)
 )]
-<h1 align="center"> 😇Hi, I'm Michael Coffman 👋</h1>
-<h3 align="center">Backend Developer</h3>
-<h3 align="center">A passionate Node Backend Developer from Canada.</h3>
+<h1 align="center"> 😇Hi, I'm Senior Web Developer(Mainly Front-end Develop but sometimes Back-end Developer) 👋</h1>
+<h3 align="center">Creative Web Developer</h3>
+<h3 align="center">A passionate Developing for customer</h3>
 <!-- <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/121865744/216788019-44bffb50-649a-45d2-83d1-7d14a194f1b8.jpg")
 "> -->
 
@@ -12,7 +12,7 @@ It's one of my normal projects
 
 
 
-<a href="https://github.com/wonderfuldev0810" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfuldev0810&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/wonderfuldev0810" align="left"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfuldev0810&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 - 🔭 I’m currently working on **Advance Node.js**
 
 - 🌱 I’m currently learning **Application of DATA Structures Using Node.js.**
