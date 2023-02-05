@@ -14,6 +14,8 @@ It's one of my normal projects
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfuldev0810&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />
 
+<div style="width: 300">
+
 - 🔭 I’m currently working on **Advanced Front-end Developer (with React, Next, Vue, and so on)**
 
 - 🌱 I’m currently learning ** of DATA Structures Using Node.js.**
@@ -26,7 +28,7 @@ It's one of my normal projects
 
 - 📫 How to reach me **happydev0705@gmail.com**
 
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshguria&label=Profile%20views&color=0e75b6&style=flat" alt="visheshguria" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visheshguria" alt="visheshguria" /></a> </p>
