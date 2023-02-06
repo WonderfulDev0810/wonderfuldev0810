@@ -46,10 +46,10 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jurkian&show_icons=true&locale=en&layout=compact" alt="visheshguria" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wonderfuldev0810&bg_color=5b3c1f&show_icons=true&locale=en" alt="visheshguria" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wonderfuldev0810&bg_color=3a212f&show_icons=true&locale=en" alt="visheshguria" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian&" alt="visheshguria" /></p> -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian" alt="visheshguria" width="600"/></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian&bg_color=1d3f91" alt="visheshguria" /></p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian" alt="visheshguria" /></p>
 <br/>
 
 <a href="https://github.com/wonderfuldev0810/github-readme-activity-graph"><img alt="Michael Coffman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=wonderfuldev0810&bg_color=127447&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
