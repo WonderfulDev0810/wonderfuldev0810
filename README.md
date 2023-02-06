@@ -11,7 +11,7 @@ It's one part of my normal projects
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamejurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="1000" height="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="1000" height="500" />
 
 - 🔭 I’m currently working on **Advanced Front-end Developer**
 
