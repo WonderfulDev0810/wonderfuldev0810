@@ -1,4 +1,4 @@
-It's one of my normal projects
+It's one part of my normal projects
 [![MasterHead](https://user-images.githubusercontent.com/121865744/216856493-f6d2070e-7f17-4e14-8c22-c1590fe7a947.png)
 )]
 <h1 align="center"> 😇Hi, I'm Senior Web Developer(Mainly Front-end Develop but sometimes Back-end Developer) 👋</h1>
