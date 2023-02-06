@@ -5,7 +5,7 @@ It's one part of my normal projects
 <h3 align="center">Creative Web Developer</h3>
 <h3 align="center">A passionate Developing for customer</h3>
 
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" >
 
 - 🔭 I’m currently working on **Advanced Front-end Developer**
@@ -19,7 +19,7 @@ It's one part of my normal projects
 - 💬 Ask me about **React, Next, javascript, css, html and so on**
 
 - 📫 How to reach me **eaganjack770@gmail.com**
--->
+<!--Good Luck-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jurkian&label=Profile%20views&color=0e75b6&style=flat" alt="visheshguria" /> </p>
