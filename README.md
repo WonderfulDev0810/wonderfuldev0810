@@ -4,7 +4,7 @@ It's one of my normal projects
 <h1 align="center"> 😇Hi, I'm Senior Web Developer(Mainly Front-end Develop but sometimes Back-end Developer) 👋</h1>
 <h3 align="center">Creative Web Developer</h3>
 <h3 align="center">A passionate Developing for customer</h3>
-<!-- <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/121865744/216788019-44bffb50-649a-45d2-83d1-7d14a194f1b8.jpg")
+<!-- <img align="left" alt="Coding" width="200" src="https://user-images.githubusercontent.com/121865744/216788019-44bffb50-649a-45d2-83d1-7d14a194f1b8.jpg")
 "> -->
 
 
