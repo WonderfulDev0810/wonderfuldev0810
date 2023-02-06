@@ -2,7 +2,7 @@
 <i>It's one part of my normal project-realestate with react.js, next.js, vue.js</i>
 [![MasterHead](https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png)
 )]
-<h1 align="center"> 😇Hi, I'm Senior Web Developer(Mainly Front-end Develop but sometimes Back-end Developer) 👋</h1>
+<h1 align="center"> 😇Hi, I'm Senior <b>Web Developer</b>(<b>Mainly Front-end Develop</b> but sometimes Back-end Developer) 👋</h1>
 <h3 align="center">Creative Web Developer</h3>
 <h3 align="center">A passionate Developing for customer</h3>
 
