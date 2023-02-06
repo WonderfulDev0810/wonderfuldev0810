@@ -4,8 +4,6 @@ It's one part of my normal projects
 <h1 align="center"> 😇Hi, I'm Senior Web Developer(Mainly Front-end Develop but sometimes Back-end Developer) 👋</h1>
 <h3 align="center">Creative Web Developer</h3>
 <h3 align="center">A passionate Developing for customer</h3>
-<img align="left" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png")
-">
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />
