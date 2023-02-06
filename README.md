@@ -7,11 +7,8 @@ It's one part of my normal projects
 <img align="left" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png")
 ">
 
-https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages
-
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />
 
 - 🔭 I’m currently working on **Advanced Front-end Developer**
 
