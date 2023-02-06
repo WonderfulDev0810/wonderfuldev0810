@@ -15,7 +15,7 @@ It's one of my normal projects
 
 - 🔭 I’m currently working on **Advanced Front-end Developer**
 
-- 🌱 I’m currently learning ** of DATA Structures Using Node.js.**
+- 🌱 I’m sure I am one of the tops **in react, next, vue and all Front-end Developing**
 
 - 👯 Worked as a Front-end Developer on Collaborative Healthcare Clone Project. 
 
