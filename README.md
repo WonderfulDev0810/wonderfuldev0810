@@ -46,9 +46,9 @@ It's one part of my normal projects
 <a href="https://github.com/visheshguria/github-readme-activity-graph"><img alt="Michael Coffman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=visheshguria&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 The more detail : 
-<!--<img align="left" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png")
+<!--<img align="left" alt="Coding" width="200" height="200" src="(https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png")
 ">-->
-<img src="https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png">
+<img src="(https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png">
 
 
 
