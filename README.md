@@ -6,7 +6,6 @@ It's one part of my normal projects
 <h3 align="center">A passionate Developing for customer</h3>
 
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />-->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" /></p>
 
 - 🔭 I’m currently working on **Advanced Front-end Developer**
