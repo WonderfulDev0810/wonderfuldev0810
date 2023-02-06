@@ -8,6 +8,11 @@ It's one of my normal projects
 "> -->
 
 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfuldev0810&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="900" height="300" />
+
 - 🔭 I’m currently working on **Advanced Front-end Developer**
 
 - 🌱 I’m currently learning ** of DATA Structures Using Node.js.**
@@ -19,12 +24,6 @@ It's one of my normal projects
 - 💬 Ask me about **React, Next, javascript, css, html and so on**
 
 - 📫 How to reach me **eaganjack770@gmail.com**
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfuldev0810&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />
-
-
 
 
 
