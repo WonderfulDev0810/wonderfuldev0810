@@ -7,7 +7,7 @@ It's one part of my normal projects
 
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=124722&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" /></p>
 
 - 🔭 I’m currently working on **Advanced Front-end Developer**
 
@@ -35,11 +35,11 @@ It's one part of my normal projects
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jurkian&show_icons=true&locale=en" alt="visheshguria" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria&" alt="visheshguria" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian&" alt="visheshguria" /></p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian" alt="visheshguria" /></p>
 <br/>
 
-<a href="https://github.com/visheshguria/github-readme-activity-graph"><img alt="Michael Coffman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jurkian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jurkian/github-readme-activity-graph"><img alt="Michael Coffman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jurkian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 The more detail : 
 <!--<img align="left" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png"
