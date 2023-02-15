@@ -59,5 +59,5 @@ The more detail :
 ">-->
 <img src="https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png">
 
-<--! I have that kind of leverage in part due to the -->
+
 
