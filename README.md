@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React, Next, javascript, css, html and so on**
 
-- 📫 How to reach me **eaganjack770@gmail.com**
+- 📫 How to reach me **sten.latier92@gmail.com**
 
 
 
