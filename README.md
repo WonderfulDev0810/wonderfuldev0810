@@ -2,7 +2,7 @@
 <i>It's one piece of my successful project-this project was bootstrapped with [react.js, next.js, vue.js, typescript] </i>
 [![MasterHead](https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png)
 )]
-<span><h1 align="center"> 😇Hi, I'm a Senior <b>Web Developer</b>(<b>Basically Full-Stack Developer</b><small> but sometimes back-end developer</small>) 👋</h1><span>
+<span><h1 align="center"> 😇Hi, I'm a Senior <b>Web Developer</b>(<b>Basically Front-end Developer</b><small> but sometimes back-end developer</small>) 👋</h1><span>
 <h3 align="center">Creative Web Developer</h3>
 <h3 align="center">A passionate Developing for customer</h3>
 
@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on **Advanced Full-Stack Developer**
 
-- 🌱 I’m sure I am one of the tops **in react, next, vue, Laravel and all Full-stack Developing**
+- 🌱 I’m sure I am one of the tops **in react, next, vue, Laravel, Python, Java and all Full-stack Developing**
 
 - 👯 Worked as a Full-Stack Developer on Collaborative Healthcare Clone Project. 
 
 - 🤝Worked as a Full-Stack Developer on Collaborative e-commerce Clone Project. 
 
-- 💬 Ask me about **React, Next, javascript, css, html, PHP, Laravel and so on**
+- 💬 Ask me about **React, Next, javascript, css, html, PHP, Laravel, Node.js, Java, SpringBoot, PYthon, Django and so on**
 
 - 📫 How to reach me **sten.latier92@gmail.com**
 
