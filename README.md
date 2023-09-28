@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Advanced Full-Stack Developer**
 
-- 🌱 I’m sure I am one of the tops **in react, next, vue, Laravel, Python, Java and all Full-stack Developing**
+- 🌱 I’m sure I am one of the tops **in react, next, vue, Laravel, Python, Java, React Native and all Full-stack Developing**
 
 - 👯 Worked as a Full-Stack Developer on Collaborative Healthcare Clone Project. 
 
 - 🤝Worked as a Full-Stack Developer on Collaborative e-commerce Clone Project. 
 
-- 💬 Ask me about **React, Next, javascript, css, html, PHP, Laravel, Node.js, Java, SpringBoot, PYthon, Django and so on**
+- 💬 Ask me about **React, Next, javascript, css, html, PHP, Laravel, Node.js, React Native, Java, SpringBoot, PYthon, Django and so on**
 
 - 📫 How to reach me **sten.latier92@gmail.com**
 
