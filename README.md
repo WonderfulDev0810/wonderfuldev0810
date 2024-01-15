@@ -15,7 +15,7 @@
 
 - 🤝Worked as a Full-Stack Developer on Collaborative e-commerce Clone Project. 
 
-- 💬 Ask me about **React, Next, javascript, css, html, PHP, Laravel, Node.js, React Native, Java, SpringBoot, PYthon, Django and so on**
+- 💬 Ask me about **React, Next, javascript, css, html, PHP, Laravel, Node.js, NestJs, React Native, Java, SpringBoot, PYthon, Django and so on**
 
 - 📫 How to reach me **wedev0916@gmail.com**
 
