@@ -2,7 +2,7 @@
 
 
 <image src="https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png" />
-<span><h1 align="center"><small>✈</small> Hi, I'm a Senior <b>Web | Mobile Developer</b><h3>+ MERN | Laravel | Django | Flask | React Native | Flutter | iOS Swift | Restful / GraphQL / TRPC | AWS +</h2>) 👋</h3><span>
+<span><h1 align="center"><small>✈</small> Hi, I'm a Senior <b>Web | Mobile Developer</b><h3>+ MERN | Laravel | Django | Flask | React Native | Flutter | iOS Swift | Restful / GraphQL / TRPC | AWS +</h2></h3><span>
 <h3 align="center">I. ❄ Creative Web Developer</h3>
 <h3 align="center">II. 🚀 A passionate Developing for customer</h3>
 
