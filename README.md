@@ -13,11 +13,11 @@
 
 - 👯 Worked as a Full-Stack Developer on Collaborative **Healthcare | Real Estate | Travel | Banking(Fintech) | Restaurant | E-commerce** Clone Project. 
 
-- 🤝 Have good High Level of **English communication Skill, Strong Problem Solving Skill, Troubleshooting Skill, Quick Learning Skill, etc**. 
+- 🤝 Have good High Level of **English communication Skill | Strong Problem Solving Skill | Troubleshooting Skill | Quick Learning Skill | Consulting Skill | etc**. 
 
-- 💬 Ask me about **React | Next | javascript / TypeScript | CSS 3 | HTML5 | PHP 8.0 | Laravel | Node.js | NestJs | React Native | Java | Kotlin | SpringBoot | Python | Django and so on**
+- 💬 Ask me about **React | Next | Javascript / TypeScript | CSS 3 | HTML5 | PHP 8.0 | Laravel | Node.js | NestJs | React Native | Java | Kotlin | SpringBoot | Python | Django and so on**
 
-- 📫 How to reach me <h4><i> **sten.latier.92@gmail.com** </i></h4>
+- 📫 How to reach me 👇 <h4>👉<i> **sten.latier.92@gmail.com** </i></h4>
 
 
 
