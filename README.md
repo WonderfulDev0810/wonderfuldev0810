@@ -2,22 +2,22 @@
 <i>It's one piece of my successful project-this project was bootstrapped with [react.js, next.js, vue.js, typescript, and also have mobile app as well] </i>
 [![MasterHead](https://user-images.githubusercontent.com/121865744/216858239-f31d02be-1731-4a75-9277-2fcff3994a1f.png)
 )]
-<span><h1 align="center"> 😇Hi, I'm a Senior <b>Web | Mobile Developer</b><h2>_Based on MERN, React Native, Flutter, iOS Swift, Restful / GraphQL / TRPC, AWS +</h2></small>) 👋</h1><span>
+<span><h1 align="center"> 😇Hi, I'm a Senior <b>Web | Mobile Developer</b><h2>+ Based on MERN, React Native, Flutter, iOS Swift, Restful / GraphQL / TRPC, AWS +</h2></small>) 👋</h1><span>
 <h3 align="center">Creative Web Developer</h3>
 <h3 align="center">A passionate Developing for customer</h3>
 
 
-- 🔭 I’m currently working on **Advanced Full-Stack Developer**
+- 🎄 I’m currently working on **Advanced Full-Stack Web / Mobile Developer**
 
-- 🌱 I’m sure I am one of the tops **in react, next, vue, Laravel, Python, Java, React Native and all Full-stack Developing**
+- 🌱 I’m sure I am one of the tops **in React | Next | Vue | Laravel | Python | Java | React Native and all Full-stack Developing**
 
-- 👯 Worked as a Full-Stack Developer on Collaborative Healthcare Clone Project. 
+- 👯 Worked as a Full-Stack Developer on Collaborative **Healthcare | Real Estate | Travel | Banking(Fintech) | Restaurant | E-commerce** Clone Project. 
 
-- 🤝Worked as a Full-Stack Developer on Collaborative e-commerce Clone Project. 
+- 🤝 Have good High Level of **English communication Skill, Strong Problem Solving Skill, Troubleshooting Skill, Quick Learning Skill, etc**. 
 
-- 💬 Ask me about **React, Next, javascript, css, html, PHP, Laravel, Node.js, NestJs, React Native, Java, SpringBoot, PYthon, Django and so on**
+- 💬 Ask me about **React | Next | javascript / TypeScript | CSS 3 | HTML5 | PHP 8.0 | Laravel | Node.js | NestJs | React Native | Java | Kotlin | SpringBoot | Python | Django and so on**
 
-- 📫 How to reach me **wedev0916@gmail.com**
+- 📫 How to reach me <h4><i> **sten.latier.92@gmail.com** </i></h4>
 
 
 
