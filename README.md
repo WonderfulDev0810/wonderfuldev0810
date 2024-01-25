@@ -50,13 +50,12 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jurkian&show_icons=true&locale=en&layout=compact" alt="visheshguria" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wonderfuldev0810&bg_color=&show_icons=true&locale=en" alt="visheshguria" />
+
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=wonderfuldev0810&bg_color=&show_icons=true&locale=en" alt="visheshguria" /> <br/>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian&bg_color=1d3f91" alt="visheshguria" /></p>-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian" alt="visheshguria" />
-<br/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian" alt="visheshguria" /> <br/>
 
 <!--<a href="https://github.com/wonderfuldev0810/github-readme-activity-graph"><img alt="Michael Coffman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=wonderfuldev0810&bg_color=&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
