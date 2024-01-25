@@ -9,7 +9,7 @@
 
 - 🎄 I’m currently working on **Advanced Full-Stack Web / Mobile Developer**
 
-- 🌱 I’m sure I am one of the tops **in React | Next | Vue | Laravel | Python | Java | React Native | AI | ChatGPT and all Full-stack Developing**
+- 🌱 I’m sure I am one of the tops **in React | Next | Vue | Laravel | Python | Java | React Native | AI | ChatGPT | Docker | AWS ECS and all Full-stack Developing**
 
 - 👯 Worked as a Full-Stack Developer on Collaborative **Healthcare | Real Estate | Travel | Banking(Fintech) | Restaurant | E-commerce** Clone Project. 
 
