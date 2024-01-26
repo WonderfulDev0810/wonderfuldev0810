@@ -50,8 +50,6 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></h1>
 
-![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
-
 <p align="center">
 <table align="center">
   <tr>
