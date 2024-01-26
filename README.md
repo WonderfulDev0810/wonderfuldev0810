@@ -212,12 +212,9 @@
 The more detail : -->
 <!--<img align="left" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png"
 ">-->
-<img width="45%" src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/48c55be0-b137-4dcf-a60d-eccf63c7e1e6">
-<img width="45%" src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/611e2dfe-7f4a-4f89-a5f6-2e34d380e508">
-<img width="45%" src="https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png">
-<img width="45%" src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/53ea4c8e-2074-43c3-b3c0-38a7d2a86e6c">
-<img width="45%" src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/4143fadc-3262-40ce-9521-2f47a2f086ec">
-<img width="45%" src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/3ec14355-4dda-42ed-8e00-7fe14a725fc2">
+<img src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/611e2dfe-7f4a-4f89-a5f6-2e34d380e508">
+<img src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/3ec14355-4dda-42ed-8e00-7fe14a725fc2">
+<img src="https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/a8551446-16ed-46b8-b7ab-261f942799dc">
 
 
 
