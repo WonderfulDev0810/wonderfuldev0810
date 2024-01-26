@@ -212,7 +212,9 @@
 The more detail : -->
 <!--<img align="left" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png"
 ">-->
-<img src="https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png">
+<img width="45%" src="https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png">
+<img width="45%" src="[https://user-images.githubusercontent.com/121865744/216858882-8824e85c-3524-44ca-8c0f-66d67a3c84c3.png](https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/611e2dfe-7f4a-4f89-a5f6-2e34d380e508)https://github.com/WonderfulDev0810/wonderfuldev0810/assets/121865744/611e2dfe-7f4a-4f89-a5f6-2e34d380e508">
+
 
 
 
