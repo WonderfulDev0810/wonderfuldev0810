@@ -25,6 +25,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jurkian" alt="visheshguria" /></a> </p>
 
+<img  width="31%" vertical-align="start"  src="https://github-readme-stats.vercel.app/api?username=wonderfuldev0810&bg_color=&show_icons=true&locale=en" alt="visheshguria" /> 
+<img  width="31%" vertical-align="start"  src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian" alt="visheshguria" /> 
+<img  width="31%" vertical-align="start"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jurkian&show_icons=true&locale=en&layout=compact" alt="visheshguria" /> <br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -202,9 +205,7 @@
 </table>
 </p>
 
-<img  width="31%" vertical-align="start"  src="https://github-readme-stats.vercel.app/api?username=wonderfuldev0810&bg_color=&show_icons=true&locale=en" alt="visheshguria" /> 
-<img  width="31%" vertical-align="start"  src="https://github-readme-streak-stats.herokuapp.com/?user=jurkian" alt="visheshguria" /> 
-<img  width="31%" vertical-align="start"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jurkian&show_icons=true&locale=en&layout=compact" alt="visheshguria" /> <br/>
+
 
 <!--<a href="https://github.com/wonderfuldev0810/github-readme-activity-graph"><img alt="Michael Coffman's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=wonderfuldev0810&bg_color=&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
